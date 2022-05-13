@@ -25,6 +25,36 @@ h2 {
   text-align: left;
 }
 
+h3 {
+  color: #3e3a3a;
+  height: 100px;
+  width: 100px;
+  padding-top: 30px;
+  float: right;
+  text-align: center;
+}
+
+
+h3:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+h3 a:visited {
+  text-decoration: none;
+  color: #3e3a3a;
+}
+
+h2 a {
+  text-decoration: none;
+  color: #d8dbd9;
+}
+
+h2 a:visited{
+  text-decoration: none;
+  color: #3e3a3a;
+}
+
 img {
   vertical-align: bottom;
 }
@@ -154,33 +184,4 @@ form {
 
 .list a {
   margin-top: 50px;
-}
-
-h3 {
-  color: #3e3a3a;
-  height: 100px;
-  width: 100px;
-  padding-top: 30px;
-  float: right;
-  text-align: center;
-}
-
-h3 a:visited {
-  text-decoration: none;
-  color: #3e3a3a;
-}
-
-h3:hover {
-  text-decoration: none;
-  color: #ffffff;
-}
-
-h2 a {
-  text-decoration: none;
-  color: #3e3a3a;
-}
-
-h2 a:visited{
-  text-decoration: none;
-  color: #d8dbd9;
 }
