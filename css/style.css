@@ -90,12 +90,11 @@ footer {
   left: 0;
   right: 0;
   height: 50px;
+  padding-top: 20px;
+  text-align: center;
   background-color: #3e3a3a;
   font-family: 'Noto Sans JP', sans-serif;
   color: #ffffff;
-  text-align: center;
-  padding-top: 20px;
-  bottom: 0;
 }
 
 #wrap {
