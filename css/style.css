@@ -49,12 +49,9 @@ header {
   float: left;
 }
 
-h3 {
+h3 a{
   height: 100px;
   width: 100px;
-}
-
-h3 a{
   float: right;
   text-align: center;
   vertical-align: middle;
