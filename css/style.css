@@ -26,12 +26,13 @@ h2 {
 }
 
 h3 a{
+  float: right;
+  text-align: center;
+  vertical-align: middle;
   color: #3e3a3a;
   height: 100px;
   width: 100px;
-  padding-top: 30px;
-  float: right;
-  text-align: center;
+  text-decoration: none;
 }
 
 
