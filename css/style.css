@@ -25,13 +25,16 @@ h2 {
   text-align: left;
 }
 
+h3 {
+  height: 100px;
+  width: 100px;
+}
+
 h3 a{
   float: right;
   text-align: center;
   vertical-align: middle;
   color: #3e3a3a;
-  height: 100px;
-  width: 100px;
   text-decoration: none;
 }
 
