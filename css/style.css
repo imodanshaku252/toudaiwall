@@ -61,7 +61,7 @@ img {
 
 header {
   height: 100px;
-  margin: 0 auto;
+  margin: 0 auto 0 auto;
   background-color: #3e3a3a;
 }
 
@@ -87,6 +87,7 @@ footer {
   right: 0;
   height: 50px;
   background-color: #3e3a3a;
+  font-family: 'Noto Sans JP', sans-serif;
   color: #ffffff;
   text-align: center;
   padding-top: 20px;
