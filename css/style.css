@@ -25,6 +25,30 @@ h2 {
   text-align: left;
 }
 
+h2 a {
+  text-decoration: none;
+  color: #d8dbd9;
+}
+
+h2 a:visited{
+  text-decoration: none;
+  color: #3e3a3a;
+}
+
+img {
+  vertical-align: bottom;
+}
+
+header {
+  height: 100px;
+  margin: 0 auto 0 auto;
+  background-color: #3e3a3a;
+}
+
+.logo_small {
+  float: left;
+}
+
 h3 {
   height: 100px;
   width: 100px;
@@ -47,26 +71,6 @@ h3 a:hover {
 h3 a:visited {
   text-decoration: none;
   color: #3e3a3a;
-}
-
-h2 a {
-  text-decoration: none;
-  color: #d8dbd9;
-}
-
-h2 a:visited{
-  text-decoration: none;
-  color: #3e3a3a;
-}
-
-img {
-  vertical-align: bottom;
-}
-
-header {
-  height: 100px;
-  margin: 0 auto 0 auto;
-  background-color: #3e3a3a;
 }
 
 body {
