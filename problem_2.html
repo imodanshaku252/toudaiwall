@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>トウダイの壁｜問題2</title>
+<link href="css/style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+<script language="JavaScript">
+function quiz(){
+answer=prompt("答えを入力してね");
+if(answer=="today"){
+location = 'problem_2_correct.html';
+}
+else{
+location = 'problem_2_hint.html';
+}
+}
+</script>
+
+</head>
+<body>
+<div class="container">
+  
+  <!--header_starts_here-->
+  <header>
+    <div class="small_logo">
+      <a href="index.html"><img src="images/logo_small.png"></a>
+    </div>
+  </header>
+  <!--header_ends_here-->
+  
+  <!--wrap_starts_here-->
+  <div id="wrap">
+    <div class="content">
+      <div class="title">
+        <h1>問題2</h1>
+      </div>
+      <div class="problem">
+        <a><img src="images/problem_2.jpg"></a>
+      </div>
+      <form><input type="button" name="ボタン" value="押してね" onClick="quiz()"/></form>
+    </div>
+  </div>
+  <!--wrap_ends_here-->
+  
+  <!--footer_starts_here-->
+  <footer>
+    <small>2022年度東京大学五月祭</small>
+  </footer>
+  <!--footer_ends_here-->
+
+</div>
+</body>
+</html>
