@@ -49,10 +49,6 @@ header {
   float: left;
 }
 
-.eastereggs {
-  float: right;
-}
-
 h3 a{
   height: 100px;
   width: 100px;
@@ -70,6 +66,10 @@ h3 a:hover {
 h3 a:visited {
   text-decoration: none;
   color: #3e3a3a;
+}
+
+.eastereggs {
+  float: right;
 }
 
 body {
