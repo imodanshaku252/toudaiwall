@@ -54,7 +54,7 @@ h3 a{
   width: 100px;
   float: right;
   text-align: center;
-  vertical-align: middle;
+  padding-top: 20px;
   color: #3e3a3a;
   text-decoration: none;
 }
