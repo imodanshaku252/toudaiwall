@@ -54,19 +54,19 @@ h3 a{
   width: 100px;
   text-align: center;
   padding-top: 20px;
-  color: #3e3a3a;
+  opacity: 0;
   text-decoration: none;
   float: right;
 }
 
 h3 a:hover {
   text-decoration: none;
-  color: #ffffff;
+  opacity: 0;
 }
 
 h3 a:visited {
   text-decoration: none;
-  color: #3e3a3a;
+  opacity: 0;
 }
 
 body {
