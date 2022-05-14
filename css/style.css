@@ -49,10 +49,13 @@ header {
   float: left;
 }
 
+.eastereggs {
+  float: right;
+}
+
 h3 a{
   height: 100px;
   width: 100px;
-  float: right;
   text-align: center;
   padding-top: 20px;
   color: #3e3a3a;
